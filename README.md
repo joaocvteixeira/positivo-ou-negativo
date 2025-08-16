@@ -1,5 +1,7 @@
-**Atividade:** Crie uma função que vai ler um número e dizer se é positivo, negativo ou zero.
+**Atividade:**   
+Crie uma função que vai ler um número e dizer se é positivo, negativo ou zero.
 
+**Identificação:**
 - **Curso:** Bacharelado em Ciência da Computação
 - **Universidade:** UNAMA
 - **Disciplina:** Programação Orientada a Objeto
